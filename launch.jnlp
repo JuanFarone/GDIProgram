@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="https://drive.google.com/drive/folders/1pwdfVQ3MOoWGXy2avglY1XK8T7CcO3Z8?usp=sharing" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>GUIApplication</title>
+        <vendor>José Javier Faro</vendor>
+        <homepage href=""/>
+        <description>GUIApplication</description>
+        <description kind="short">GUIApplication</description>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="GUIApplication.jar" main="true"/>
+    </resources>
+    <application-desc main-class="GUIApplication">
+    </application-desc>
+</jnlp>
